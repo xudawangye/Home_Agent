@@ -126,12 +126,14 @@ python main.py
 * **本地工具调用示例**
 ![本地工具调用](https://raw.githubusercontent.com/xudawangye/Home_Agent/refs/heads/main/_ImageLibrary/%E6%9C%AC%E5%9C%B0%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8.gif)
 
-### 在线模式演示
+### 模式切换演示
 
 * **模式切换过程**
 ![在线 -> 本地 模式切换](https://raw.githubusercontent.com/xudawangye/Home_Agent/refs/heads/main/_ImageLibrary/%E5%88%87%E6%8D%A2%E6%9C%AC%E5%9C%B0%E6%A8%A1%E5%BC%8F.gif)
 
 ![本地 -> 在线 模式切换](https://raw.githubusercontent.com/xudawangye/Home_Agent/refs/heads/main/_ImageLibrary/%E5%88%87%E6%8D%A2%E5%9C%A8%E7%BA%BF%E6%A8%A1%E5%BC%8F.gif)
+
+### 在线模式演示
 
 * **在线问答示例**
 ![在线问答](https://raw.githubusercontent.com/xudawangye/Home_Agent/refs/heads/main/_ImageLibrary/%E5%9C%A8%E7%BA%BF%E6%99%AE%E9%80%9A%E5%AF%B9%E8%AF%9D.gif)

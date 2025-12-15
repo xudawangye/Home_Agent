@@ -1,6 +1,6 @@
 import re
 from langchain_openai import ChatOpenAI
-from langchain.prompts import ChatPromptTemplate
+
 from tools.light import turn_on
 
 # 工具映射

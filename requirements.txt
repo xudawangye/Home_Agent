@@ -1,0 +1,4 @@
+langchain-openai==0.2.9
+langchain-core==0.3.63
+ollama==0.6.1
+dotenv==0.9。9
